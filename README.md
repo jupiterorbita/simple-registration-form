@@ -1,5 +1,5 @@
 ## Simple Registration Form
-___
+
 HTML contains the following tags:
 
 input with these values in the "type" attribute:<br>
@@ -10,5 +10,5 @@ radio<br>
 submit<br>
 textarea<br>
 select
-
-![](url placeholder)
+___
+![](https://raw.githubusercontent.com/jupiterorbita/simple-registration-form/master/registration.png)
